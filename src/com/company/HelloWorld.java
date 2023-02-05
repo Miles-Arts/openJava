@@ -4,14 +4,12 @@ package com.company;
 public class HelloWorld {
 
 
-    // metodo
+    // metodo de entrada a una aplicación JAVA
     public static void main(String[] args) {
 
        String string = "Hello Word";
 
         System.out.println(string);
 
-
     }
-
 }
