@@ -56,5 +56,13 @@ public class Tipos {
         //Long  numerro = 21;
 
 
+        //palabras reservadas
+
+            /*if casa = "ca";
+            int class = 1;*/
+
+
+            //Para las clases se empieza
+            // la primara palabra  con mayúscula
     }
 }
