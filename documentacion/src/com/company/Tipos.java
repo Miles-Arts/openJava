@@ -35,7 +35,7 @@ public class Tipos {
 
         //caracter
         // para una letra
-        char chacarter = "a";
+        //char chacarter = "a";
 
 
         //booleanos VERDADEROS o FALSOS
@@ -53,7 +53,7 @@ public class Tipos {
 
         //se puede añadir la L para indicar Long
         Long  numero2 = 21L;
-        Long  numerro = 21;
+        //Long  numerro = 21;
 
 
     }
