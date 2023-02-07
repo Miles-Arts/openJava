@@ -1,4 +1,4 @@
-package com.company;
+package company.company;
 
 public class Tipos {
 
