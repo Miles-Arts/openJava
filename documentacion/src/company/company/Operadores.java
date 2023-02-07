@@ -38,7 +38,7 @@ public class Operadores {
         /*
         =
         += OPERACION ARITMETICA Y ASIGNAR DE UN VEZ EL RESULTADO SOBRE UNA VARIABLE
-        -= /=  *=
+        -= /=  *= +=
         %=
         % RESTO
 
