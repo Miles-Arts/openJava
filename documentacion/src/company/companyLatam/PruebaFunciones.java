@@ -10,6 +10,7 @@ public class PruebaFunciones {
         Funciones.holaMundo();
         Funciones.miGente();
         Funciones.usuariosActivos();
+        Funciones.sum(3,3);
 
 
     }

@@ -8,7 +8,9 @@ public class Funciones {
         int edad = edadHumano();
         String hola = devolverHolaMundo();
         System.out.println(hola);
-        holaMundo("Saludos");
+
+        holaMundo("Saludos" , "Inversión");
+
         System.out.println(edad);
     }
 
@@ -27,6 +29,14 @@ public class Funciones {
         System.out.println("Lunes de " + name);
     }
 
+    public static void holaMundo(Integer number) {
+        System.out.println("Lunes de " + number);
+    }
+
+    public static void holaMundo(String name, String texto) {
+        System.out.println("Lunes de " + name + " " + texto);
+    }
+
     public static void miGente() {
         System.out.println("Aprendo fácil");
     }
@@ -38,4 +48,11 @@ public class Funciones {
     private static <Int> int edadHumano() {
         return 38;
     }
+
+    public static int sum ( int number1, int number2) {
+
+        return number1 + number2;
+
+    }
+
 }
