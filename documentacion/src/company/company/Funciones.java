@@ -5,13 +5,19 @@ public class Funciones {
     }
 
     public static <Int> void main(String[] args) {
-        int edad = edadHumano();
+
+        holaMundo();
+        holaMundo();
+        holaMundo("Actitud" , "positiva");
+        holaMundo(200);
+
+        /*int edad = edadHumano();
         String hola = devolverHolaMundo();
         System.out.println(hola);
 
         holaMundo("Saludos" , "Inversión");
 
-        System.out.println(edad);
+        System.out.println(edad);*/
     }
 
     public static void usuariosActivos() {
@@ -30,11 +36,11 @@ public class Funciones {
     }
 
     public static void holaMundo(Integer number) {
-        System.out.println("Lunes de " + number);
+        System.out.println("Martes de " + number);
     }
 
     public static void holaMundo(String name, String texto) {
-        System.out.println("Lunes de " + name + " " + texto);
+        System.out.println("Año de " + name + " " + texto);
     }
 
     public static void miGente() {
