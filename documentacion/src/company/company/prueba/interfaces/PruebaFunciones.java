@@ -1,7 +1,6 @@
-package company.companyLatam;
+package company.company.prueba.interfaces;
 
 import company.company.Funciones;
-import company.company.Operadores;
 
 public class PruebaFunciones {
 

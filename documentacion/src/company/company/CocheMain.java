@@ -8,10 +8,12 @@ public class CocheMain {
     //tipo de dato - indentificaror - valor asignado
         String        coche           = "Alfa Romeo";
 
-        Coche cocheObj = new Coche();
+        Coche cocheObj = new CocheElectrico();
 
-        Coche cocheObj2 = new Coche("Blue","Honda","Civic",1430.45,5.4);
+        //Coche cocheObj2 = new CocheElectrico("Blue","Honda","Civic",1430.45,5.4);
+        Coche cocheObj2 = new CocheElectrico();
 
+        //cocheObj2;
         cocheObj2.acelerar(50);
         cocheObj2.peso = 1350.8;
 
