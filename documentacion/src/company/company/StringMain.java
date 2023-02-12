@@ -37,6 +37,7 @@ public class StringMain {
         //if (mensajeMAY.equals(mensajeOtr)) {
        if (mensajeMAY.equalsIgnoreCase(mensajeOtr)) {
             System.out.println("Verdadero");
+
         }
     }
 }
