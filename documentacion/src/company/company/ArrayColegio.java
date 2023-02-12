@@ -18,8 +18,8 @@ public class ArrayColegio {
 
         //System.out.println(notas[0]); //8
 
-        notas1.binarySearch(notas1, 9);
-        notas1.sort(notas1);
+        //notas1.binarySearch(notas1, 9);
+        //notas1.sort(notas1);
         //equals(notas1, notas2);
 
         for(int i = 0; i < notas1.length; i++) {
